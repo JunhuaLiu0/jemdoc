@@ -1,52 +1,73 @@
 # jemdoc: menu{MENU}{index.html}, nofooter  
-==Wenhao Yang
+==Junhua Liu
 
 ~~~
-{}{img_left}{https://z3.ax1x.com/2021/05/16/ggixKA.jpg}{alt text}{130}{180}
-Undergraduate\n [https://see.xidian.edu.cn/  School of Electronic Engineering] \n[https://www.xidian.edu.cn/ Xidian University (XDU)]\n
-Github: [https://github.com/Alpha-Yang Alpha-Yang]\n
-Zhihu: [https://www.zhihu.com/people/mu-yi-yang-42-66 Alpha Yang XDU]\n
-Email: /wenhaoyang.alpha/ \[@\] gmail \[DOT\] com
+{}{img_left}{https://z3.ax1x.com/2021/08/25/hELe8P.jpg}{alt text}{130}{180}
+Undergraduate \n from [https://sds.cuhk.edu.cn/  The School of Data Science] \n [cuhk.edu.cn/ The Chinese University of Hong Kong,shenzhen]\n
+[https://www.linkedin.com/in/junhua-joshua-liu-2bab51206/ Linkedin: Junhua(Joshua) Liu]\n
+[https://github.com/JunhuaLiu0 Github: Liujunhua0]\n
+[https://www.zhihu.com/people/double-92-92 Zhihu: double]\n
+Email: jeshualiu@gmail.com
 ~~~
 
 == About me
-I am an undergraduate student in Xidian University, majored in electronic engineering. And I have a strong interest in machine learning. Now, my research interest includes Video-level Anomaly Detection, supervised
-by Prof. [https://web.xidian.edu.cn/nnwang/ Nannan Wang], [https://ste.xidian.edu.cn/  School of Telecommunications Engineering], [https://www.xidian.edu.cn/ Xidian University (XDU)].
-My long-term goal is to make intelligent machines trustworthy. 
-- \[[assets\resume_ywh.pdf My-brief-cv]\]
+I am an undergraduate student from CUHKSZ, with an interest in doing research on computer science and data-driven topics. \n
+- \[[assets\resume.pdf My-brief-cv]\]
 
 == Education
-- Xidian University, Bachelor in Electronic Engineering, Sep. 2018 - Now
 
-== Research
-My research interests include 
-- Machine Learning
-- Computer Vision
+- CUHKSZ, Bachelor in big data and data technology, Sep. 2020 - Now
 
-[research.html Find out more about my research].
+
+== Research interests
+ I study topics that interest me, but not deeply. My research interests include 
+- Machine Learning and Deep learning
+- Data analysis
+- Data-driven
+- operation research 
+- optimization \n
+
+I hopefully want opportunities to do research on these topics.
+
+== Development
+The things I've learned now include:
+ - Linear algebra(learn during mathematical modeling)
+ - Basic optimization(linear programming, integer programming, nonlinear programming,
+ - dynamic programming, network and flow,regression….)(learn during mathematical
+modeling by related courses)
+ - Programming: C C++, python(
+basic modules like pandas matplotlib numpy)
+jupyter, basic linux, command-line environment, git/github
+ - Technical softwares: MATLAB(based on course by Yanfu Guo,NTU), SPSS
+ - Data structure (based on course by Junhui Deng and book by Jie Cheng, planning to
+take CS61B from Berkeley in the future)
+ - Machine learning: course by Andrew NG on coursera [certificate] (eight assignments
+based on MATLAB), part of CS229 by Andrew NG and part of deeplearning.ai
+Specialization [certificate]. I have made a plan forthe future study.
+ - Computer architect:The first three chapters in CSAPP and its corresponding courses by
+CMU.
+
+
+== Skills
+ - Scholar skills: Basic ability of writing english and reading english literature, command of
+latex and markdown.
+ - Analytical Skills: basic data analysis and data mining from MOOC, command of data
+analysis software(Mpai)
+ - Social skills: Researchgate, Linkedin, Zhihu, Github.
+ -  Communication skills: A range speech in term 1 year 1, second highest in the class.
+ - Visualization: excel diagrams, matlab, python.
+ - Other skills: information management, information search, time management, emotion
+management....
+
+
 
 == Awards
-- 2019 - 2020, China National Scholarship (published in [https://wap.peopleapp.com/article/6192502/6094690 people daily news]). \[[https://mp.weixin.qq.com/s/EiXs2rqc644BxuDnZ5NviQ details]\]
-- 2019 - 2020, Xidian Principle's Scholarship (only 5 awardees university-wide per year). \[[https://www.xidian.edu.cn/info/1882/44907.htm details]\]
-- 2019 - 2020, Xidian Goodix Technology Scholarship (only 1 awardee university-wide per year). 
-- 2019 - 2020, School-level outstanding student model.
-- Apr. 2020, MCM/ICM, Mathematical Contest in Modeling (Worldwide level), INFORMS Award Outstanding Winner(<0.03% only 6 awardees World-wide per year in 20,000 teams). \[[https://www.xidian.edu.cn/info/1811/41871.htm details]\] \[[https://www.comap-math.com/mcm/2020Certs/2006782.pdf certificate]\]
-- Sep. 2020, ACM-ICPC, Shaanxi Province Bronze Award. \[[assets\bronze.pdf certificate]\] 
-- Sep. 2019, The National College Student Mathematical Modeling Competition, Shaanxi Province First Prize.
-- Sep. 2019, The National College Student Mathematics Competition, Shaanxi Province First Prize.
+-Semi-tuition-free admission scholarship
+-Bowen Scholarship
 
-[awards.html Find out more about my awards].
 
 == Publications 
-. Shengli Zhang, Zhengpeng Duan, *Wenhao Yang*, Chenlai Qian, Yiwei You, \"iDHS-DASTS: identifying DNase I hypersensitive sites based on LASSO and stacking learning\",  Molecular Omics, 2021. \[[https://pubs.rsc.org/fi/content/articlehtml/2021/mo/d0mo00115e pub]\]
-
-[publications.html Find out more about my publications].
+None
 
 == Projects
-- Char-adv-using-LID-torch. \[[https://github.com/Alpha-Yang/Char-adv-using-LID-torch details]\]
-- CVPR2018-Baseline-PSNRplot. \[[https://github.com/Alpha-Yang/CVPR2018-Baseline-PSNRplot details]\]
-- cs231n-master2020. \[[https://github.com/Alpha-Yang/cs231n-master2020 details]\]
-- Matlab_arrowPlot. \[[https://github.com/Alpha-Yang/Matlab_arrowPlot details]\]
-
-[projects.html Find out more about my projects].
-\n
+None
